@@ -1,4 +1,4 @@
-text = "benim ismim Hüseyin"
+text = "benim ismim test"
 a = text.split(" ")
 print(a[2])
 print(a[len(a)-1])
