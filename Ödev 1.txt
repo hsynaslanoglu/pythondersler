@@ -1,0 +1,15 @@
+For döngüsünü kullanarak Baklava deseni yapın - Tek sayılar için -. (Satır sayısını range içinden değiştirilebilir olsun)
+Örnek:
+
+for i in range(3) dediğimizde beklenen çıktı:
+ *
+* *
+ *
+
+
+for i in range(5) dediğimizde beklenen çıktı:
+  *
+ * *
+*   *
+ * *
+  *
