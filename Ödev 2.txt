@@ -1,0 +1,5 @@
+Üslü sayı hesaplayan bir fonksiyon yazın:
+
+def üslüSayıHesapla(x,y): ----- x üzeri y
+
+print(üslüSayıHesapla(5,2)) -------- 25
